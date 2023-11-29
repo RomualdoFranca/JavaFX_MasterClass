@@ -1,4 +1,4 @@
-package com.jmc.firstapp;
+package com.example.tpoint_java_object_class;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
